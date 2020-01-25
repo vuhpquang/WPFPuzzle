@@ -1,0 +1,64 @@
+﻿<Window x:Class="Project2_PuzzleGame.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Project2_PuzzleGame"
+        mc:Ignorable="d"
+        Loaded="Window_Loaded"
+        Title="Puzzle Game" Height="630" Width="1350">
+    <Canvas>
+        <GroupBox Header="Puzzle GameBox" Width="520" Height="450" Canvas.Left="43" Canvas.Top="60" BorderBrush="Black" BorderThickness="2">
+            <Border >
+                <Canvas x:Name="uiCanvas" Canvas.Left="43" Canvas.Top="80" Width="500" Height="400"/>
+            </Border>
+        </GroupBox>
+
+        <GroupBox Header="" Width="450" Height="570" Canvas.Left="600" Canvas.Top="10" BorderBrush="Black" BorderThickness="2">
+            <Canvas>
+                <Image x:Name="original_image" Width="250" Height="220" Margin="104,34,84,209" ></Image>
+                <Label x:Name="timer_label" Height="55" Width="200" Canvas.Left="134" Canvas.Top="259" FontSize="40" FontWeight="Bold" VerticalContentAlignment="Top" HorizontalContentAlignment="Center">03:00</Label>
+                <Border Height="90" Width="400" Canvas.Left="25" Canvas.Top="320" BorderBrush="Black" BorderThickness="1">
+                    <Canvas Height="80" Width="400" Canvas.Left="25" Canvas.Top="320">
+                        <Button x:Name="startBtn" Background="#E8E8E8" Click="startBtn_Click" Height="40" Width="100" Canvas.Left="10" Canvas.Top="20" FontSize="16" FontWeight="Bold">Start</Button>
+                        <Button x:Name="pauseBtn" Background="#E8E8E8" Click="pauseBtn_Click" Height="40" Width="100" Canvas.Left="145" Canvas.Top="20" FontSize="16" FontWeight="Bold">Pause</Button>
+                        <Button x:Name="plagainBtn" Background="#E8E8E8" Click="plagainBtn_Click" Height="40" Width="100" Canvas.Left="280" Canvas.Top="20" FontSize="16" FontWeight="Bold">Play again</Button>
+                    </Canvas>
+                </Border>
+
+                <Border Height="60" Width="250" Canvas.Left="100" Canvas.Top="420" BorderBrush="Black" BorderThickness="1">
+                    <Canvas Height="90" Width="250" Canvas.Left="25" Canvas.Top="320">
+                        <Button x:Name="saveBtn" Background="#E8E8E8" Click="saveBtn_Click" Height="40" Width="100" Canvas.Left="10" Canvas.Top="10" FontSize="16" FontWeight="Bold">Save</Button>
+                        <Button x:Name="loadBtn" Background="#E8E8E8" Click="loadBtn_Click" Height="40" Width="100" Canvas.Left="130" Canvas.Top="10" FontSize="16" FontWeight="Bold">Load</Button>
+                    </Canvas>
+                </Border>
+
+                <Border Height="50" Width="120" Canvas.Left="165" Canvas.Top="490" BorderBrush="Black" BorderThickness="1">
+                    <Canvas Height="50" Width="120" Canvas.Left="165" Canvas.Top="490">
+                        <ComboBox x:Name="mode" SelectionChanged="mode_SelectionChanged" Background="#E8E8E8"  Height="30" Width="100" Canvas.Left="10" Canvas.Top="10" FontSize="16" FontWeight="Bold" HorizontalContentAlignment="Center"></ComboBox>
+                    </Canvas>
+                </Border>
+            </Canvas>
+        </GroupBox>
+
+        <GroupBox Header="Control Button" Width="250" Height="300" Canvas.Left="1070" Canvas.Top="160" BorderBrush="Black" BorderThickness="2">
+            <Border >
+                <Canvas>
+                    <Button Name="upBtn" Click="upBtn_Click" Height="60" Width="60" Canvas.Left="95" Canvas.Top="87" BorderBrush="Black" BorderThickness="2" Background="#E8E8E8">
+                        <Image Source="Image/up-arrow.png" Height="40"></Image>
+                    </Button>
+                    <Button x:Name="downBtn" Click="downBtn_Click" Height="60" Width="60" Canvas.Left="95" Canvas.Top="147" BorderBrush="Black" BorderThickness="2,0,2,2" Background="#E8E8E8">
+                        <Image Source="Image/down-arrow.png" Height="40"></Image>
+                    </Button>
+                    <Button x:Name="leftBtn" Click="leftBtn_Click" Height="60" Width="60" Canvas.Left="35" Canvas.Top="147" BorderBrush="Black" BorderThickness="2,2,0,2" Background="#E8E8E8">
+                        <Image Source="Image/left-arrow.png" Height="40"></Image>
+                    </Button>
+                    <Button x:Name="rightBtn" Click="rightBtn_Click" Height="60" Width="60" Canvas.Left="155" Canvas.Top="147" BorderBrush="Black" BorderThickness="0,2,2,2" Background="#E8E8E8">
+                        <Image Source="Image/right-arrow.png" Height="40"></Image>
+                    </Button>
+                </Canvas>
+            </Border>
+        </GroupBox>
+
+    </Canvas>
+</Window>

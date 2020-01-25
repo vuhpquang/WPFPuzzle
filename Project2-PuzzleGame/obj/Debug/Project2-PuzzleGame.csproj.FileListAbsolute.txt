@@ -1,0 +1,80 @@
+D:\Nháp C#\Project2-PuzzleGame\Project2-PuzzleGame\bin\Debug\Project2-PuzzleGame.exe.config
+D:\Nháp C#\Project2-PuzzleGame\Project2-PuzzleGame\bin\Debug\Project2-PuzzleGame.exe
+D:\Nháp C#\Project2-PuzzleGame\Project2-PuzzleGame\bin\Debug\Project2-PuzzleGame.pdb
+D:\Nháp C#\Project2-PuzzleGame\Project2-PuzzleGame\obj\Debug\Project2-PuzzleGame.csprojAssemblyReference.cache
+D:\Nháp C#\Project2-PuzzleGame\Project2-PuzzleGame\obj\Debug\MainWindow.g.cs
+D:\Nháp C#\Project2-PuzzleGame\Project2-PuzzleGame\obj\Debug\App.g.cs
+D:\Nháp C#\Project2-PuzzleGame\Project2-PuzzleGame\obj\Debug\Project2-PuzzleGame_MarkupCompile.cache
+D:\Nháp C#\Project2-PuzzleGame\Project2-PuzzleGame\obj\Debug\Project2-PuzzleGame_MarkupCompile.lref
+D:\Nháp C#\Project2-PuzzleGame\Project2-PuzzleGame\obj\Debug\MainWindow.baml
+D:\Nháp C#\Project2-PuzzleGame\Project2-PuzzleGame\obj\Debug\Project2-PuzzleGame.g.resources
+D:\Nháp C#\Project2-PuzzleGame\Project2-PuzzleGame\obj\Debug\Project2_PuzzleGame.Properties.Resources.resources
+D:\Nháp C#\Project2-PuzzleGame\Project2-PuzzleGame\obj\Debug\Project2-PuzzleGame.csproj.GenerateResource.cache
+D:\Nháp C#\Project2-PuzzleGame\Project2-PuzzleGame\obj\Debug\Project2-PuzzleGame.exe
+D:\Nháp C#\Project2-PuzzleGame\Project2-PuzzleGame\obj\Debug\Project2-PuzzleGame.pdb
+D:\Nháp C#\Project2-PuzzleGame\Project2-PuzzleGame\obj\Debug\SaveDialog.g.cs
+D:\Nháp C#\Project2-PuzzleGame\Project2-PuzzleGame\obj\Debug\SaveDialog.baml
+F:\USER\Downloads\Project2-PuzzleGame - 2\Project2-PuzzleGame\bin\Debug\Project2-PuzzleGame.exe.config
+F:\USER\Downloads\Project2-PuzzleGame - 2\Project2-PuzzleGame\bin\Debug\Project2-PuzzleGame.exe
+F:\USER\Downloads\Project2-PuzzleGame - 2\Project2-PuzzleGame\bin\Debug\Project2-PuzzleGame.pdb
+F:\USER\Downloads\Project2-PuzzleGame - 2\Project2-PuzzleGame\obj\Debug\Project2-PuzzleGame.csprojAssemblyReference.cache
+F:\USER\Downloads\Project2-PuzzleGame - 2\Project2-PuzzleGame\obj\Debug\MainWindow.g.cs
+F:\USER\Downloads\Project2-PuzzleGame - 2\Project2-PuzzleGame\obj\Debug\SaveDialog.g.cs
+F:\USER\Downloads\Project2-PuzzleGame - 2\Project2-PuzzleGame\obj\Debug\App.g.cs
+F:\USER\Downloads\Project2-PuzzleGame - 2\Project2-PuzzleGame\obj\Debug\Project2-PuzzleGame_MarkupCompile.cache
+F:\USER\Downloads\Project2-PuzzleGame - 2\Project2-PuzzleGame\obj\Debug\Project2-PuzzleGame_MarkupCompile.lref
+F:\USER\Downloads\Project2-PuzzleGame - 2\Project2-PuzzleGame\obj\Debug\MainWindow.baml
+F:\USER\Downloads\Project2-PuzzleGame - 2\Project2-PuzzleGame\obj\Debug\SaveDialog.baml
+F:\USER\Downloads\Project2-PuzzleGame - 2\Project2-PuzzleGame\obj\Debug\Project2-PuzzleGame.g.resources
+F:\USER\Downloads\Project2-PuzzleGame - 2\Project2-PuzzleGame\obj\Debug\Project2_PuzzleGame.Properties.Resources.resources
+F:\USER\Downloads\Project2-PuzzleGame - 2\Project2-PuzzleGame\obj\Debug\Project2-PuzzleGame.csproj.GenerateResource.cache
+F:\USER\Downloads\Project2-PuzzleGame - 2\Project2-PuzzleGame\obj\Debug\Project2-PuzzleGame.exe
+F:\USER\Downloads\Project2-PuzzleGame - 2\Project2-PuzzleGame\obj\Debug\Project2-PuzzleGame.pdb
+C:\Users\ASUS\Downloads\Project2-PuzzleGame - 2\Project2-PuzzleGame\bin\Debug\Project2-PuzzleGame.exe.config
+C:\Users\ASUS\Downloads\Project2-PuzzleGame - 2\Project2-PuzzleGame\bin\Debug\Project2-PuzzleGame.exe
+C:\Users\ASUS\Downloads\Project2-PuzzleGame - 2\Project2-PuzzleGame\bin\Debug\Project2-PuzzleGame.pdb
+C:\Users\ASUS\Downloads\Project2-PuzzleGame - 2\Project2-PuzzleGame\obj\Debug\Project2-PuzzleGame.csprojAssemblyReference.cache
+C:\Users\ASUS\Downloads\Project2-PuzzleGame - 2\Project2-PuzzleGame\obj\Debug\MainWindow.g.cs
+C:\Users\ASUS\Downloads\Project2-PuzzleGame - 2\Project2-PuzzleGame\obj\Debug\SaveDialog.g.cs
+C:\Users\ASUS\Downloads\Project2-PuzzleGame - 2\Project2-PuzzleGame\obj\Debug\App.g.cs
+C:\Users\ASUS\Downloads\Project2-PuzzleGame - 2\Project2-PuzzleGame\obj\Debug\Project2-PuzzleGame_MarkupCompile.cache
+C:\Users\ASUS\Downloads\Project2-PuzzleGame - 2\Project2-PuzzleGame\obj\Debug\Project2-PuzzleGame_MarkupCompile.lref
+C:\Users\ASUS\Downloads\Project2-PuzzleGame - 2\Project2-PuzzleGame\obj\Debug\MainWindow.baml
+C:\Users\ASUS\Downloads\Project2-PuzzleGame - 2\Project2-PuzzleGame\obj\Debug\SaveDialog.baml
+C:\Users\ASUS\Downloads\Project2-PuzzleGame - 2\Project2-PuzzleGame\obj\Debug\Project2-PuzzleGame.g.resources
+C:\Users\ASUS\Downloads\Project2-PuzzleGame - 2\Project2-PuzzleGame\obj\Debug\Project2_PuzzleGame.Properties.Resources.resources
+C:\Users\ASUS\Downloads\Project2-PuzzleGame - 2\Project2-PuzzleGame\obj\Debug\Project2-PuzzleGame.csproj.GenerateResource.cache
+C:\Users\ASUS\Downloads\Project2-PuzzleGame - 2\Project2-PuzzleGame\obj\Debug\Project2-PuzzleGame.exe
+C:\Users\ASUS\Downloads\Project2-PuzzleGame - 2\Project2-PuzzleGame\obj\Debug\Project2-PuzzleGame.pdb
+C:\Users\ASUS\Downloads\Project2-PuzzleGame\Project2-PuzzleGame\bin\Debug\Project2-PuzzleGame.exe.config
+C:\Users\ASUS\Downloads\Project2-PuzzleGame\Project2-PuzzleGame\bin\Debug\Project2-PuzzleGame.exe
+C:\Users\ASUS\Downloads\Project2-PuzzleGame\Project2-PuzzleGame\bin\Debug\Project2-PuzzleGame.pdb
+C:\Users\ASUS\Downloads\Project2-PuzzleGame\Project2-PuzzleGame\obj\Debug\Project2-PuzzleGame.csprojAssemblyReference.cache
+C:\Users\ASUS\Downloads\Project2-PuzzleGame\Project2-PuzzleGame\obj\Debug\MainWindow.g.cs
+C:\Users\ASUS\Downloads\Project2-PuzzleGame\Project2-PuzzleGame\obj\Debug\SaveDialog.g.cs
+C:\Users\ASUS\Downloads\Project2-PuzzleGame\Project2-PuzzleGame\obj\Debug\App.g.cs
+C:\Users\ASUS\Downloads\Project2-PuzzleGame\Project2-PuzzleGame\obj\Debug\Project2-PuzzleGame_MarkupCompile.cache
+C:\Users\ASUS\Downloads\Project2-PuzzleGame\Project2-PuzzleGame\obj\Debug\Project2-PuzzleGame_MarkupCompile.lref
+C:\Users\ASUS\Downloads\Project2-PuzzleGame\Project2-PuzzleGame\obj\Debug\MainWindow.baml
+C:\Users\ASUS\Downloads\Project2-PuzzleGame\Project2-PuzzleGame\obj\Debug\SaveDialog.baml
+C:\Users\ASUS\Downloads\Project2-PuzzleGame\Project2-PuzzleGame\obj\Debug\Project2-PuzzleGame.g.resources
+C:\Users\ASUS\Downloads\Project2-PuzzleGame\Project2-PuzzleGame\obj\Debug\Project2_PuzzleGame.Properties.Resources.resources
+C:\Users\ASUS\Downloads\Project2-PuzzleGame\Project2-PuzzleGame\obj\Debug\Project2-PuzzleGame.csproj.GenerateResource.cache
+C:\Users\ASUS\Downloads\Project2-PuzzleGame\Project2-PuzzleGame\obj\Debug\Project2-PuzzleGame.exe
+C:\Users\ASUS\Downloads\Project2-PuzzleGame\Project2-PuzzleGame\obj\Debug\Project2-PuzzleGame.pdb
+F:\USER\Downloads\Project2-PuzzleGame - 4\Project2-PuzzleGame\bin\Debug\Project2-PuzzleGame.exe.config
+F:\USER\Downloads\Project2-PuzzleGame - 4\Project2-PuzzleGame\bin\Debug\Project2-PuzzleGame.exe
+F:\USER\Downloads\Project2-PuzzleGame - 4\Project2-PuzzleGame\bin\Debug\Project2-PuzzleGame.pdb
+F:\USER\Downloads\Project2-PuzzleGame - 4\Project2-PuzzleGame\obj\Debug\Project2-PuzzleGame.csprojAssemblyReference.cache
+F:\USER\Downloads\Project2-PuzzleGame - 4\Project2-PuzzleGame\obj\Debug\MainWindow.g.cs
+F:\USER\Downloads\Project2-PuzzleGame - 4\Project2-PuzzleGame\obj\Debug\SaveDialog.g.cs
+F:\USER\Downloads\Project2-PuzzleGame - 4\Project2-PuzzleGame\obj\Debug\App.g.cs
+F:\USER\Downloads\Project2-PuzzleGame - 4\Project2-PuzzleGame\obj\Debug\Project2-PuzzleGame_MarkupCompile.cache
+F:\USER\Downloads\Project2-PuzzleGame - 4\Project2-PuzzleGame\obj\Debug\Project2-PuzzleGame_MarkupCompile.lref
+F:\USER\Downloads\Project2-PuzzleGame - 4\Project2-PuzzleGame\obj\Debug\MainWindow.baml
+F:\USER\Downloads\Project2-PuzzleGame - 4\Project2-PuzzleGame\obj\Debug\SaveDialog.baml
+F:\USER\Downloads\Project2-PuzzleGame - 4\Project2-PuzzleGame\obj\Debug\Project2-PuzzleGame.g.resources
+F:\USER\Downloads\Project2-PuzzleGame - 4\Project2-PuzzleGame\obj\Debug\Project2_PuzzleGame.Properties.Resources.resources
+F:\USER\Downloads\Project2-PuzzleGame - 4\Project2-PuzzleGame\obj\Debug\Project2-PuzzleGame.csproj.GenerateResource.cache
+F:\USER\Downloads\Project2-PuzzleGame - 4\Project2-PuzzleGame\obj\Debug\Project2-PuzzleGame.exe
+F:\USER\Downloads\Project2-PuzzleGame - 4\Project2-PuzzleGame\obj\Debug\Project2-PuzzleGame.pdb
